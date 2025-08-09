@@ -4,7 +4,7 @@ Automated multi-wallet swap bot for **syntrha (OUNMI)**. Each wallet swaps acros
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
