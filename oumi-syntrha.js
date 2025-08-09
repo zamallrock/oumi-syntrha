@@ -17,11 +17,11 @@ const CHAIN_NAME = "UOMI";
 
 const SWAPS_PER_WALLET = 9;
 
-const UOMI_SWAP_MIN = 0.01;
-const UOMI_SWAP_MAX = 0.05;
+const UOMI_SWAP_MIN = 0.001;
+const UOMI_SWAP_MAX = 0.005;
 
-const WUOMI_LP_MIN = 0.01;
-const WUOMI_LP_MAX = 0.03;
+const WUOMI_LP_MIN = 0.001;
+const WUOMI_LP_MAX = 0.005;
 
 const DELAY_SWAP_MIN = 30 * 1000;
 const DELAY_SWAP_MAX = 60 * 1000;
@@ -371,3 +371,4 @@ runCycle().catch((err) => {
   console.error(chalk.red("Fatal error:"), err);
   process.exit(1);
 });
+
