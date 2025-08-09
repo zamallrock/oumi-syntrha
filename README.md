@@ -9,7 +9,7 @@ Automated multi-wallet swap bot for **syntrha (OUNMI)**. Each wallet swaps acros
 1. Clone the repository:
    ```bash
    git clone https://github.com/zamallrock/oumi-syntrha.git
-   cd oumi-syntrh
+   cd oumi-syntrha
    ```
 2. Install dependencies:
    ```bash
