@@ -15,8 +15,16 @@ Automated multi-wallet swap bot for **syntrha (OUNMI)**. Each wallet swaps acros
    ```bash
    npm install
    ```
-3. Run the bot:
+3. Load privatkeys
    ```bash
-   node oumi-continuous.js
+   nano privatekey.txt
+   ```
+4.load proxy (optional)
+  ```bash
+  nano proxy.txt
+  ```
+5. Run the bot:
+   ```bash
+   node oumi-syntrha.js
    ```
 ---
