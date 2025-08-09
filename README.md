@@ -17,6 +17,6 @@ Automated multi-wallet swap bot for **syntrha (OUNMI)**. Each wallet swaps acros
    ```
 3. Run the bot:
    ```bash
-   node og-jaine-multi.js
+   node oumi-continuous.js
    ```
 ---
