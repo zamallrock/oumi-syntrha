@@ -1,6 +1,6 @@
 # ✪ OUMI | SYNTRHA TESTNET MULTI BOT ✪
 
-Automated multi-wallet swap bot for **syntrha (OUNMI)**. Each wallet swaps across token pairs (OUMI, SYN) in both directions.
+Automated multi-wallet swap bot for **syntrha (OUNMI)**. Each wallet swaps across token pairs (OUMI, SYN)
 
 ---
 
